@@ -1,0 +1,23 @@
+h1{background: red;
+color: #FFFFFF;text-transform: uppercase; font: "arial";
+text-align: center;}
+
+body{
+background: url("../img/fondo.jpg");
+
+background-size: 100%;
+
+background-repeat: no-repeat;
+
+background-position: center center;
+
+background-attachment: fixed;
+}
+
+h3{background: ; color: #00035B; font-size: xx-large;}
+
+h4{color: #00035B ; font-size: x-large;
+text-decoration: underline;
+}
+
+li{font-size: large;}
